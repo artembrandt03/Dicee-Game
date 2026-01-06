@@ -1,6 +1,8 @@
 # Dicee (Dice) Game — Mini Web Project
 A small and simple **HTML/CSS/JavaScript** project that simulates a two-player dice roll and displays the winner (or a draw).  
 This is a lightweight, front-end–only project with no build tools, frameworks, or backend required.
+<img width="1180" height="767" alt="image" src="https://github.com/user-attachments/assets/bd645528-fbc9-46aa-bb7f-3677073ef795" />
+
 
 ## Features
 - Rolls **two dice** (Player 1 vs Player 2)
@@ -25,6 +27,9 @@ This is a lightweight, front-end–only project with no build tools, frameworks,
 ├─ styles.css
 └─ images/
 ```
+
+## Live Demo
+➡️ GitHub Pages Demo: https://artembrandt03.github.io/Dicee-Game/
 
 ## Run Locally
 ### Option A — Open directly (simplest)
